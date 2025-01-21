@@ -13,3 +13,5 @@ Your task is to count how many apples and oranges land on Sam's house.
 
 ## 📥 Input Format
 
+1. Two integers s and t: the start and end points of Sam's house.
+
