@@ -19,3 +19,5 @@ Your task is to count how many apples and oranges land on Sam's house.
 4. An array of m integers: distances each apple falls from the tree.
 5. An array of n integers: distances each orange falls from the tree.
 
+## 📤 Output Format
+
