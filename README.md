@@ -27,3 +27,5 @@ Your task is to count how many apples and oranges land on Sam's house.
 
 ## ✅ Example
 
+### Input:
+
