@@ -21,3 +21,5 @@ Your task is to count how many apples and oranges land on Sam's house.
 
 ## 📤 Output Format
 
+- Print two integers, each on a separate line:
+
