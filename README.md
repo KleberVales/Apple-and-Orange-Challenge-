@@ -15,4 +15,5 @@ Your task is to count how many apples and oranges land on Sam's house.
 
 1. Two integers s and t: the start and end points of Sam's house.
 2. Two integers a and b: the locations of the apple and orange trees.
+3. Two integers m and n: the number of apples and oranges.
 
