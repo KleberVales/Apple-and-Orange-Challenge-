@@ -37,4 +37,11 @@ Your task is to count how many apples and oranges land on Sam's house.
 5 -6
 
 ```
+### Output:
+```java
+
+1
+1
+
+```
 
