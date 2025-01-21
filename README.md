@@ -28,4 +28,13 @@ Your task is to count how many apples and oranges land on Sam's house.
 ## ✅ Example
 
 ### Input:
+```java
+
+7 11
+5 15
+3 2
+-2 2 1
+5 -6
+
+```
 
